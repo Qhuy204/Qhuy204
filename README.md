@@ -47,3 +47,33 @@
 ---
 
 ⭐️ *Always open to collaboration on exciting AI/ML projects and open-source contributions!*  
+
+---
+
+### ⚡ GitHub Stats
+![Qhuy204's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qhuy204&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qhuy204&layout=compact&theme=tokyonight)
+
+### 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=Qhuy204&theme=darkhub&margin-w=10&margin-h=10)
+
+### 💻 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+---
+
+### 📈 Contribution Graph
+![Quoc Huy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Qhuy204&theme=react-dark)
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Qhuy204/Qhuy204/main/banner.png" alt="AI Engineer Banner"/>
+</p>
+
