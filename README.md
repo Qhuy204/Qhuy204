@@ -27,14 +27,13 @@
 
 ---
 
-## 🔬 Featured Projects (Research-to-Deployment)
+## 🔬 Featured Projects
 
 These projects showcase my ability to develop full-stack applications and deploy deep learning models into production environments.
 
 | Project | Description | Key Technologies |
 | :--- | :--- | :--- |
 | **[Noteen](https://github.com/Qhuy204/Noteen)** | Smart note-taking & task management mobile app featuring an **AI-powered Math-Solving Canvas** for handwritten equation recognition. | **Kotlin, Jetpack Compose, PyTorch, TensorFlow** |
-| **[Traffic Object Detection](https://github.com/Qhuy204/YOLOv7-Traffic-Object-Detection)** | A **real-time** traffic object detection system using **SOTA YOLOv7/YOLOv11** models, deployed with Streamlit and Flask. | **PyTorch, YOLO, Streamlit, Flask** |
 | **[Handwriting Recognition App](https://github.com/Qhuy204/Character-Recognition)** | Full-stack mobile application for handwriting recognition, utilizing a trained **CNN model** on a Flask backend. | **Python, CNN, Flask, React Native** |
 | **[PC Online Store](https://github.com/Qhuy204/ComputerStore-Frontend)** | Full-stack e-commerce platform built with Node.js/React, featuring secure **JWT authentication** and **Role-Based Access Control (RBAC)**. | **Node.js, Express.js, React.js, MySQL** |
 
