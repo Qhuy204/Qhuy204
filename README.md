@@ -41,7 +41,7 @@
 
 ## 📫 Connect with Me
 - 📧 Email: [truongquochuy234@gmail.com](mailto:truongquochuy234@gmail.com)  
-- 💼 LinkedIn: *(add if you have one)*  
+- 💼 LinkedIn: [Huy Trương](https://www.linkedin.com/in/huy-tr%C6%B0%C6%A1ng-bbb716135/)
 - 🐙 GitHub: [github.com/Qhuy204](https://github.com/Qhuy204)  
 
 ---
