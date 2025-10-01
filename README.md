@@ -21,14 +21,59 @@
 
 ---
 
-## 🛠️ Skills
-- **Languages:** Python, Kotlin, JavaScript, SQL, C#  
-- **ML/DL Frameworks:** PyTorch, TensorFlow, Keras, Scikit-learn  
-- **Computer Vision:** YOLO Family, DETR, CNN, ResNet, MobileNet  
-- **Backend:** Node.js, Flask, OOP, Postman  
-- **Frontend:** React.js, React Native, Jetpack Compose, Streamlit, HTML/CSS/JS  
-- **Databases:** MySQL, SQL Server  
-- **Tools & Platforms:** Git/GitHub, Docker, Kaggle, Colab, Android Studio, VS Code, Linux/Ubuntu, Firebase  
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=database&logoColor=white&style=flat-square)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)
+
+### 📚 ML / DL Frameworks
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square)
+![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square)
+
+### 👁️ Computer Vision
+![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?logo=openai&logoColor=black&style=flat-square)
+![DETR](https://img.shields.io/badge/-DETR-FF6F91?logo=transformer&logoColor=white&style=flat-square)
+![CNN](https://img.shields.io/badge/-CNN-FF9A00?logo=deeplearning&logoColor=white&style=flat-square)
+![ResNet](https://img.shields.io/badge/-ResNet-00599C?logo=neural-network&logoColor=white&style=flat-square)
+![MobileNet](https://img.shields.io/badge/-MobileNet-4CAF50?logo=android&logoColor=white&style=flat-square)
+
+### 🔙 Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square)
+![OOP](https://img.shields.io/badge/-OOP-FF6600?logo=java&logoColor=white&style=flat-square)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?logo=android&logoColor=white&style=flat-square)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat-square)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat-square)
+
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white&style=flat-square)
+![Google Colab](https://img.shields.io/badge/-Colab-F9AB00?logo=googlecolab&logoColor=black&style=flat-square)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=flat-square)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat-square)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
 
 ---
 
@@ -57,30 +102,6 @@
 
 ### 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Qhuy204&theme=darkhub&margin-w=10&margin-h=10)
-
-## 👨‍💻 Programming Languages  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=database&logoColor=white&style=flat-square)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
-
----
-
-## 🔧 Software & Tools  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square)
-![Colab](https://img.shields.io/badge/-Colab-F9AB00?logo=googlecolab&logoColor=white&style=flat-square)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=flat-square)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat-square)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=flat-square)
-![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white&style=flat-square)
 
 ---
 
