@@ -70,10 +70,3 @@
 
 ### 📈 Contribution Graph
 ![Quoc Huy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Qhuy204&theme=react-dark)
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Qhuy204/Qhuy204/main/banner.png" alt="AI Engineer Banner"/>
-</p>
-
