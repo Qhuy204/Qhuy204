@@ -20,7 +20,7 @@
 
 * **Final-year undergraduate student** at **Hung Yen University of Technology and Education (UTEHY)**.
 * Major: **Artificial Intelligence and Data Science** (AI&DS).
-* Academic Achievement: **GPA: 3.56/4.0**.
+* Academic Achievement: **GPA: 3.6/4.0**.
 * **Core Expertise:** Deeply passionate about **Machine Learning, Deep Learning, and Computer Vision**, with hands-on experience in areas like **Object Detection (YOLO, DETR) and Vision Transformers**.
 * **Goal:** To leverage and advance **State-of-the-Art (SOTA) AI techniques** to create impactful and intelligent solutions, bridging the gap between research and real-world deployment.
 * **Affiliation:** Member of the [Vision and Learning Laboratory (Val Lab) - UTEHY](https://github.com/val-utehy).
